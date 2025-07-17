@@ -1,5 +1,4 @@
-
-
+#data of districts in dictionary
 district_info = {
     "pune": {
         "📛 Nickname": "Oxford of the East",
